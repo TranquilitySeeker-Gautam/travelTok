@@ -29,7 +29,7 @@
     float: right;
 }
 .login-btn:hover{
-    letter-spacing: 0.05em;
+    letter-spacing: 0.1em;
     background-color: white;
     color:black;
 }
